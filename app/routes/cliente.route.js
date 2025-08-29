@@ -16,5 +16,5 @@ module.exports = app => {
 
     router.delete("/delete/", clientes.deleteAll);
     
-    app.use("/api/customer/cliente", router);
+    app.use("/api/customer/cliente", router); 
 };

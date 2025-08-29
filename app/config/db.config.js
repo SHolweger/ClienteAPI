@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "ep-falling-haze-afc8pe1y-pooler.c-2.us-west-2.aws.neon.tech",
+  HOST: "ep-steep-darkness-afa9voep-pooler.c-2.us-west-2.aws.neon.tech",
   USER: "neondb_owner",
   PASSWORD: "npg_AqKWT8PHvX5k",
   DB: "neondb",
